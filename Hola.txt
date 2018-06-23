@@ -1,0 +1,7 @@
+Github es una excelente herramiente para los desarrolladores, porque permite gestionar el control de versiones del 
+código con el cual se esta trabajando.
+
+Recuerdo el uso de subversion y de una herramienta de IBM----Rational Team Concert que permitian gestionar 
+versiones y tener una bitacora de cambios.
+
+CN
